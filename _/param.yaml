@@ -1,0 +1,16 @@
+---
+author: 'Alaattin'
+description: ''
+email: 'alaattin.usta@bil.omu.edu.tr'
+url: 'austa.github.com/fo'
+domain: ''
+intro: ''
+googleanalytics: ''
+googleplus: ''
+brand: default
+landslide: /usr/bin/landslide
+css: _/default.css
+js: _/default.js
+theme: light
+indextemplate: _/index.erb
+foliotemplate: _/default.erb

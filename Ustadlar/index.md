@@ -115,3 +115,19 @@ Aralık 2013
 - Cook -"Apple vizyon sahibi bir kişiyi; dünya inanılmaz bir insanı kaybetti"
 
 ---
+
+##  Rasmus Lerdorf
+![Rasmus Lerdof](media/Rasmus_Lerdorf_LinuxTag_2002.jpg)
+
+---
+
+##  Rasmus Lerdorf
+
+- Pek tanınmayan bir yazılımcı
+- Ama en çok kullanılan bir dilin geliştiricisi
+- PHP
+- Dünyanın en iyi 100 geliştiricisi arasında
+- Yahoo'da Altyapı Mimarisi Mühendisi
+- lerdof.com/bio.php/ kişisel web sitesi
+
+---

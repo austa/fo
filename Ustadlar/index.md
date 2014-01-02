@@ -109,7 +109,7 @@ Aralık 2013
 ##  Steve Jobs
 ![Steve Jobs](media/steve-jobs2.jpg)
 
-teve Jobs                                                                                                               
+---
 
 ##  Steve Jobs
 

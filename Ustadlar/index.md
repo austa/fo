@@ -74,6 +74,22 @@ Aralık 2013
 - OSDL(Açık Kaynak Geliştirme Laboratuvarı)
 
 ---
+##  Andrew S.Tanenbaum
+![Andrew S.Tanenbaum](media/350px-AndrewTanenbaum.JPG)
+
+---
+
+##  Andrew S.Tanenbaum
+
+- Minix işletim sistemi
+- Amoeba işletim sistemi
+- Linus Torvalds ile tartışma yapmıştır
+- İşletim sistemleri ve Bilgisayar Ağları üzerine kitaplar yazmış
+- Dağınık Sistemler de ilgi alanı
+- Halen Vrije Universite'sinde çalışıyor
+
+---
+
 
 ##  Bill Gates
 ![Bill Gates](media/Bill-Gates_2012907b.jpg)
@@ -93,7 +109,7 @@ Aralık 2013
 ##  Steve Jobs
 ![Steve Jobs](media/steve-jobs2.jpg)
 
----
+teve Jobs                                                                                                               
 
 ##  Steve Jobs
 
@@ -129,5 +145,22 @@ Aralık 2013
 - Dünyanın en iyi 100 geliştiricisi arasında
 - Yahoo'da Altyapı Mimarisi Mühendisi
 - lerdof.com/bio.php/ kişisel web sitesi
+
+---
+
+##  Mark Zuckerberg
+
+![Mark Zuckerberg](media/zuckerberg_2432876b.jpg)
+
+---
+
+##  Mark Zuckerberg
+
+- Facebook kurucusu
+- Harvard'da okudu
+- Okulun veritabanını hacklediği için okul hayatı bitti
+- Yine Harvard öğrencilerini bir araya getirmek için Facebook kurdu
+- 2012 1 milyar üye(Facebook)
+- Dünyanın en genç zengini (29 yaşında 24 milyar$)
 
 ---

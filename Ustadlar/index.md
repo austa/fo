@@ -164,3 +164,13 @@ Aralık 2013
 - Dünyanın en genç zengini (29 yaşında 24 milyar$)
 
 ---
+
+##  Teşekkür Ederiz..
+
+- Alaattin Usta
+- 10060280
+
+- Hurşit Topal
+- 10060291
+
+---
